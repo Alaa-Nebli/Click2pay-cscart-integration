@@ -1,0 +1,5 @@
+msgid "click2pay_username"
+msgstr "Click2Pay Username"
+
+msgid "click2pay_password"
+msgstr "Click2Pay Password"
