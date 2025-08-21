@@ -1,7 +1,3 @@
-Here’s a professional **README.md** template you can use for your CS-Cart **Click2Pay** payment integration script:
-
----
-
 # CS-Cart Click2Pay Payment Integration
 
 This repository provides a custom **Click2Pay payment method integration** for **CS-Cart**.
